@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BeNrn
 - 👀 I’m interested in Geoinformatics and data science using Phyton and R  
-- 🌱 I’m currently learning processing and analysing spatial data with Python and R 
+- 🌱 I’m currently learning processing and analyzing spatial data with Python and R 
 
 
 <!---
